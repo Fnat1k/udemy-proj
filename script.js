@@ -2,7 +2,7 @@
       1: {
         description: "<a href=\"https://www.udemy.com/course/the-complete-web-development-bootcamp/\" target=\"_blank\">The Complete Full-Stack Web Development Bootcamp</a>",
         udemy: "<img src='cer.jpg' alt='Image'>",
-        repo: "sadsd",
+        repo: "<a href=\"https://github.com/Fnat1k/udemy-proj\" target=\"_blank\">Репозиторій Звіт</a> <a href=\"https://github.com/Fnat1k/udemy-test\" target=\"_blank\">Репозиторій проекту</a>",
         table: "<img src='udemy.png' alt='Image'>",
         image: "<img src='img/1.png' alt='Image'> <img src='img/2.png' alt='Image'> <img src='img/3.png' alt='Image'> <img src='img/4.png' alt='Image'> <img src='img/5.png' alt='Image'>",
         conclusion: `Пройшовши курс "The Complete Full-Stack Web Development Bootcamp" від Dr. Angela Yu на Udemy, можу сказати, що це був надзвичайно цінний досвід. Цей курс, тривалістю понад 62 години, охоплює все необхідне для того, щоб стати впевненим веб-розробником: від основ HTML, CSS і JavaScript до складніших тем, таких як Node.js, React, PostgreSQL, Web3 і навіть розробка децентралізованих додатків (DApps).
