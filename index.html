@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>Звіт з лабораторних</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+ <header class="main-header">
+    <!-- Текст зліва -->
+    <div class="header-text">
+ <h3>Звіт з курсу The Complete Full-Stack Web Development Bootcamp</h3>
+    <h3>з дисципліни «WEB-орієнтовані технології. Основи FRONTEND та BACKEND розробок»</h3>
+    <h3>Студент гр. ІС-23 Єркін Ілля Віталійович</h3>
+    </div>
+
+    <!-- Фото справа -->
+    <div class="photo-box">
+
+      <img src="img/photo.jpg" alt="Фото студента" class="student-photo">
+    </div>
+  </header>
+
+
+
+  <div class="main-container">
+    <div class="sidebar">
+      <button class="lab-btn" onclick="showSection('description')">Назва курсу Посилання на курс</button>
+      <button class="lab-btn" onclick="showSection('udemy')">Сертифікат</button>
+      <button class="lab-btn" onclick="showSection('repo')">Репозиторій</button>
+      <button class="lab-btn" onclick="showSection('table')">Зміст курсу Назви розділів</button>
+      <button class="lab-btn" onclick="showSection('image')">Тести по темам</button>
+      <button class="lab-btn" onclick="showSection('conclusion')">ВИСНОВКИ</button>
+    </div>
+    <div class="content" id="output">
+      Місце виведення інформації
+    </div>
+  </div>
+
+
+<script src="script.js"></script>
+</body>
+</html>
